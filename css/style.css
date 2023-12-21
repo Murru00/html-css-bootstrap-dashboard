@@ -25,3 +25,21 @@
     margin-left: 1.1rem;
 }
 /* END-HEADER */
+
+
+/* LEFT-BAR */
+#left-bar{
+    background-color:#082339 ;
+    background-image: url(../img/sidebar-bg.png);
+    width: 100px;
+    height: calc(100vh - 2.375rem);
+    
+}
+#left-bar li{
+    list-style: none;
+}
+#left-bar a{
+    text-decoration: none;
+    color: white;
+}
+/* END-LEFT-BAR */
