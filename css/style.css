@@ -1,0 +1,27 @@
+/* HEADER */
+
+/* HEADER-LOGO */
+.logo-mobile{
+    max-height: 60px;
+}
+/* HEADER-SEARCH */
+.search-bar{
+    background-color:#e5e5e5;
+}
+.search-bar-input{
+    background-color: transparent;
+    border: none;
+     width:90%;    
+}
+.sm-dropdown-icon{
+    background-color: transparent;
+    color: #ff8f00;
+}
+.ms-button{
+    background-color: transparent;
+    border:none
+}
+.container-icon i{
+    margin-left: 1.1rem;
+}
+/* END-HEADER */
