@@ -31,7 +31,7 @@
 #left-bar{
     background-color:#082339 ;
     background-image: url(../img/sidebar-bg.png);
-    width: 100px;
+    width: 110px;
     height: calc(100vh - 2.375rem);
     
 }
@@ -43,3 +43,12 @@
     color: white;
 }
 /* END-LEFT-BAR */
+
+
+/* MAIN */
+
+.main-top{
+    background-color: #1b72e8;
+    max-width:100%;
+     height: 200px;
+}
